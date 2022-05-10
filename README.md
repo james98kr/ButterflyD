@@ -6,3 +6,5 @@ First of all, you must unzip the dataset files in `my_butterfly_counting_anomaly
 Then move to the `my_butterfly_counting_anomaly_detection` directory, and execute file using the `make` command.
 
 If you want to use your own dataset, open up the `my_butterfly_counting_anomaly_detection/Makefile` file and change the datapath for `runbutterfly_acc.sh` and `runbutterfly_spot.sh`.
+
+Original code: https://github.com/kijungs/thinkd
