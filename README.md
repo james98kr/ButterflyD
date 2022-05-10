@@ -7,4 +7,4 @@ Then move to the `my_butterfly_counting_anomaly_detection` directory, and execut
 
 If you want to use your own dataset, open up the `my_butterfly_counting_anomaly_detection/Makefile` file and change the datapath for `runbutterfly_acc.sh` and `runbutterfly_spot.sh`.
 
-Original code: https://github.com/kijungs/thinkd
+Original code for ThinkD: https://github.com/kijungs/thinkd
